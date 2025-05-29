@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Radit313
+- 👋 Hi, I’m Rafaditya Syahputra
 - 👀 I’m interested in Front-end Dev
 - 🌱 I’m currently learning HTML, PHP, C++, C#, CSS, Python, Java Script.
 - 💞️ I’m looking to collaborate on Students of SMKN 13 Bandung.
